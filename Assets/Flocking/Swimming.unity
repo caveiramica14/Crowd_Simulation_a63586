@@ -155,6 +155,7 @@ MonoBehaviour:
   numFish: 20
   allFish: []
   swimLimits: {x: 5, y: 5, z: 5}
+  goalPos: {x: 0, y: 0, z: 0}
   minSpeed: 1.5
   maxSpeed: 3
   neighbourDistance: 10
